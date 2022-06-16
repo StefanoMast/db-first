@@ -7,4 +7,4 @@ model - VARCHAR(20) - NOTNULL
 color - VARCHAR(30) - NULL
 supply - VARCHAR(20) - NULL 
 description - TEXT - NULL
-price - UNSIGNED - DECIMAL(6,2) - NOTNULL
+price - UNSIGNED - DECIMAL(8,2) - NOTNULL
